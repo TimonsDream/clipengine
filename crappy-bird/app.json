@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Crappy Bird",
+    "slug": "crappy-bird",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "platforms": ["ios", "android", "web"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.clipengine.crappybird"
+    },
+    "android": {
+      "package": "com.clipengine.crappybird",
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
